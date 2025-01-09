@@ -11,7 +11,7 @@ The document includes:
 - Applications and relevance of the problem in algorithm design.
 
 ## How to Access
-1. Download the Word document: `4_Queens_Problem.docx`.
+1. Download the Word document: 'A Brief Solution to the 4-Queen's Problem.docx'.
 2. Open it using Microsoft Word or any compatible word processor.
 
 ## Purpose
