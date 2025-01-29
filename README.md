@@ -5,10 +5,10 @@ This repository contains a Word document explaining the **4-Queens Problem**, a 
 
 ## Contents
 The document includes:
-- An introduction to the 4-Queens Problem.
-- A detailed explanation of the constraints.
-- A step-by-step guide to solving the problem using backtracking.
-- Applications and relevance of the problem in algorithm design.
+1. An introduction to the 4-Queens Problem.
+2. A detailed explanation of the constraints.
+3. A step-by-step guide to solving the problem using backtracking.
+4. Applications and relevance of the problem in algorithm design.
 
 ## How to Access
 1. Download the Word document: 'A Brief Solution to the 4-Queen's Problem.docx'.
